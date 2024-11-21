@@ -1,6 +1,8 @@
 ## "Stori QA Automation Engineer Challenge"
 Welcome to my Stori Challenge! 
 
+![credit-cards](https://github.com/user-attachments/assets/693192f7-c1bc-42c9-98ca-35d360426c7f)
+
 ### Overview
 This script automates various web-based tests using Selenium WebDriver with Python (Chrome Browser). It interacts with a sample web page from the URL https://rahulshettyacademy.com/AutomationPractice/. The script includes various test cases based on the documentation received.
 ### What do I need before running the code? (Requirements)
